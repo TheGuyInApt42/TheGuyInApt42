@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheGuyInApt42
 - 👀 I’m interested in learning more
-- 🌱 I’m currently learning Svelte
+- 🌱 I’m enjoying building with Svelte
 - 💞️ I’m looking to collaborate on whatever
 - 📫 How to reach me blackgandalf83@gmail.com
 
